@@ -1,0 +1,7 @@
+{
+  "ransomware_live": {
+    "name": "Ransomware.live",
+    "api_url": "https://api.ransomware.live/victims",
+    "active": true
+  }
+}
